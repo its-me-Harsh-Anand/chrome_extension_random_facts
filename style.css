@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50px;
+    max-height: auto;
+    width: 300px;
+    background-color: rgb(203 233 191 / 43%);
+    font-size: 1.5rem;
+    letter-spacing: 1.2;
+    transition: all 100ms linear;
+}
+p {
+    font-family: 'DynaPuff', cursive, sans-serif;
+}
