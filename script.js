@@ -1,6 +1,6 @@
 fetch('https://api.api-ninjas.com/v1/facts?limit=1', {
     headers: {
-        'X-Api-Key': '0ZcIYI+egt8q6UUI+uZ9dQ==0Gi2gQdjzQEwtaed'
+        'X-Api-Key': 'Your API key for API Ninjas'
       },
 })
     .then(res => res.json())
